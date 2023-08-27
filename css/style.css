@@ -28,3 +28,10 @@ h1{
     text-transform: capitalize;
     text-align: center;
 }
+
+button{
+    border: none;
+    background: #5878;
+    color: aliceblue;
+    padding: 10px 20px;
+}

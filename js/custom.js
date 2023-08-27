@@ -4,4 +4,9 @@
     document.getElementById("demo").innerHTML =
 
     "the value of z is " + z;
-alert(z)
+let namaste = document.querySelector('button');
+namaste.addEventListener('click', showmsg);
+
+function showmsg(){
+    alert("hello this my first js alert")
+}
